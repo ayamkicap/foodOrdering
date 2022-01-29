@@ -1,0 +1,15 @@
+A1	Chicken chop	10.00
+A2	Chicken Grill	12.00
+A3	Chicken Marryland	12.00
+B1	Black Pepper Steak	15.00
+C1	Lamb Chop	16.00
+D1	Fish N Chip	9.00
+E1	Spaghetti Carbonara	13.00
+E2	Spaghetti Bolognese	13.00
+E3	Spaghetti Aglio Olio	15.00
+F1	Double Cheese Burger	10.00
+F2	Lava Cheese Burger	18.00
+F3	Daddy’s Burger	23.00
+G1	Mac and Cheese	10.00
+G2	Cheezy Meatball	14.00
+H1	Mix Platter Set	25.00
